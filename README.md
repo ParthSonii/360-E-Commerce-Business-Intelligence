@@ -86,12 +86,6 @@ Build a complete 360° Business Intelligence pipeline covering:
 
 ---
 
-##  Executive Dashboard
-
-![Dashboard](visuals/EXECUTIVE_DASHBOARD.png)
-
----
-
 ##  Business Recommendations
 1. Reward Champion customers with exclusive offers
 2. Launch win-back campaigns for At Risk segment immediately
